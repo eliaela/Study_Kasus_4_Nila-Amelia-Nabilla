@@ -8,7 +8,7 @@ Kelas  : C
 
 # PENJELASAN PROGRAM #
 
-Program ini dibuat untuk mengelola data produk fashion Toko District 404 menggunakan struktur data Dictionary. Dictionary menyimpan informasi dalam bentuk pasangan key dan value, yaitu nama, harga, dan stok.
+Program ini dibuat untuk mengelola data produk fashion Toko District 404 menggunakan struktur data Dictionary. Dictionary menyimpan informasi dalam bentuk pasangan key dan value, yaitu nama, harga, dan stok. Program menyediakan menu untuk menampilkan data produk, menambah kategori, mengubah harga, dan menghapus kategori.
 
 # Dictionary Produk #
 <img width="232" height="86" alt="CODE1" src="https://github.com/user-attachments/assets/236986ca-805d-4005-a339-4732ba6923e3" />
@@ -30,10 +30,15 @@ ini digunakan untuk menerima pilihan menu dari pengguna, kemudian pilihan terseb
 
 Digunakan untuk membaca dan menampilkan seluruh data dalam dictionary. key berisi nama informasi, sedangkan value berisi isi dari informasi tersebut.
 
-# Update #
+# Create #
 <img width="290" height="60" alt="CODE5" src="https://github.com/user-attachments/assets/2af321fb-71e2-4867-baf3-84bd432c10d7" />
 
 Ini di gunakan untuk menambahkan data kategori baru ke dalam dictionary produk.
+
+# Update #
+<img width="351" height="69" alt="FU" src="https://github.com/user-attachments/assets/f3983d83-523b-4e6f-a1cd-3a48139f48eb" />
+
+Bagian ini digunakan untuk mengubah harga produk. Program meminta pengguna memasukkan harga baru, kemudian nilai tersebut menggantikan harga lama pada key "harga".
 
 # Delete #
 <img width="279" height="98" alt="CODE6" src="https://github.com/user-attachments/assets/87f4d140-096e-434c-a460-5e88f85e13d1" />
